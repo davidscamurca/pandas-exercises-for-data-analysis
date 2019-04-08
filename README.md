@@ -3,7 +3,7 @@ Exercícios para melhorar skills com pandas.
 
 - [x] 1) How to import pandas and check the version?
 - [x] 2) How to create a series from a list, numpy array and dict?
-- [ ] 3) How to convert the index of a series into a column of a dataframe?
+- [x] 3) How to convert the index of a series into a column of a dataframe?
 - [ ] 4) How to combine many series to form a dataframe?
 - [ ] 5) How to assign name to the series’ index?
 - [ ] 6) How to get the items of series A not present in series B?
@@ -21,11 +21,11 @@ Exercícios para melhorar skills com pandas.
 - [ ] 18) How to convert the first character of each element in a series to uppercase?
 - [ ] 19) How to calculate the number of characters in each word in a series?
 - [ ] 20) How to compute difference of differences between consequtive numbers of a series?
+- [ ] ...
 
 
 
-Irei submentendo as soluções conforme eu for resolvendo. Acho que a lista vai parar em 100 exercícios ou mais : )
+Irei submetendo as soluções conforme eu for resolvendo. Acho que a lista vai passar de 100 exercícios ou mais : )
 
-Todos os créditos das questões são para Machine Learning Plus (Selva): 
+Créditos das questões: Machine Learning Plus (Selva) <https://www.machinelearningplus.com/python/101-pandas-exercises-python/>
 
-<https://www.machinelearningplus.com/python/101-pandas-exercises-python/>
