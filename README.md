@@ -4,7 +4,7 @@ Exercícios para melhorar skills com pandas.
 - [x] 1) How to import pandas and check the version?
 - [x] 2) How to create a series from a list, numpy array and dict?
 - [x] 3) How to convert the index of a series into a column of a dataframe?
-- [ ] 4) How to combine many series to form a dataframe?
+- [x] 4) How to combine many series to form a dataframe?
 - [ ] 5) How to assign name to the series’ index?
 - [ ] 6) How to get the items of series A not present in series B?
 - [ ] 7) How to get the items not common to both series A and series B?
